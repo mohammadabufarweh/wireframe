@@ -1,0 +1,32 @@
+header {
+    background-color:#bdd2b6;
+}
+
+header{
+    text-align: center;
+    padding-top: 40px;
+    
+}
+.ul{
+    float: left;}
+
+.article1 {
+    background-color:#ff7a00 ;
+    float: left;
+    padding-right: 500px;
+}
+.article2 {
+    background-color:#b39d88 ;
+    float: left;
+    padding-right: 700px;
+    padding-bottom:70px ;
+}
+.article3 {
+    background-color:#d6a87e ;
+    float: right;
+    padding-right: 500px;
+}
+footer {
+    padding-top: 400px;
+    text-align: center;
+}
